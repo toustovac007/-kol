@@ -1,0 +1,8 @@
+Příkazy
+
+git add .
+git commit -m (verze)
+git push (main)
+git clone (url souboru)
+git pull - synchronizace se souborem
+clone .
